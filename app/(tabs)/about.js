@@ -1,6 +1,6 @@
 import { ScrollView, Text, View } from "react-native";
-import { Screen } from "../components/Screen";
 import { Link, Stack } from "expo-router";
+import { Screen } from "../../components/Screen";
 
 export default function About() {
   return (
